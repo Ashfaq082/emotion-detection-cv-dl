@@ -1,0 +1,7 @@
+emotion-detection-cv-dl/
+├── dataset/               # (Optional) Folder for your emotion dataset
+├── model/                 # Trained model will be saved here
+├── Emotion_Detector.ipynb # Main Jupyter Notebook
+├── emotion_detector.py    # Python script version
+├── requirements.txt       # Dependencies
+├── README.md              # Project description

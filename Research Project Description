@@ -1,0 +1,7 @@
+In a recent project, I developed an emotion detection system using synthetic facial expression data generated from an AI-based text-to-image generative model, implemented in Kaggle. This involved creating a diverse dataset of 1,400 facial images, each labeled with emotions such as happiness, sadness, fear, anger, and disgust, based on corresponding textual prompts.
+Key Highlights:
+•	Generated realistic facial expression images using a generative AI model (e.g., Stable Diffusion / DALLE) from emotion-based text prompts.
+•	Built and trained deep learning models (EfficientNet, ResNet) for multi-class emotion classification using the generated dataset.
+•	Applied advanced image preprocessing and augmentation techniques to enhance model robustness and generalization.
+•	Achieved over 90% accuracy on validation data, demonstrating the feasibility of using AI-generated datasets for emotion recognition tasks.
+•	Explored the potential of generative data for training affective computing systems in cases where real annotated data is scarce or sensitive.
